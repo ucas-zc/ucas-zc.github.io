@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+# title setting
+title: UCAS-ZC.BLOG.SITE
+description: Welcome to my personal blog website! I am ucas-zc, a passionate individual driven by /
+the realms of scientific research and the wonders of life. This online platform shall serve as the /
+vessel through which I share my thoughts, experiences, and scientific endeavors with the world.
+permalink: ':title:output_ext'
+baseurl: '/'
+url: 'https://ucas-zc.github.io&q=main'
