@@ -4,5 +4,5 @@ description: 'Welcome to my personal blog website! I am ucas-zc, a passionate in
 the realms of scientific research and the wonders of life. This online platform shall serve as the /
 vessel through which I share my thoughts, experiences, and scientific endeavors with the world.'
 permalink: ':title:output_ext'
-baseurl: '/'
-url: ''
+baseurl: '/index.html'
+url: 'https://ucas-zc.github.io/index.html'
